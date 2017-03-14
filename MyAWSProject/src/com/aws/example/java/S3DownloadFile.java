@@ -1,0 +1,5 @@
+package com.aws.example.java;
+
+public class S3DownloadFile {
+
+}
