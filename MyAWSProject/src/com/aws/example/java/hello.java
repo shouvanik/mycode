@@ -8,5 +8,6 @@ package com.aws.example.java;
  *
  */
 public class hello {
+	//comments for hello
 
 }
